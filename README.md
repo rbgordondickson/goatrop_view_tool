@@ -20,9 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-'''ruby
+```ruby
    @copyright = GoatropeViewTool::Renderer.copyright 'Gordon Dickson', 'All rights reserved'
-'''
+```
 
 ## Development
 
